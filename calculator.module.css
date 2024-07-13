@@ -1,0 +1,49 @@
+.Calculator{
+    width: 250px;
+    height: 320px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 15px;
+    background-color: black;
+}
+input{
+     height: 40px;
+     width: 98%;
+     border: 1px solid red;
+     background-color: bisque;
+     margin: auto;
+     margin-top:5px;
+     border-radius: 10px;
+}
+.div2{
+    height: 40px;
+    width: 98%;
+    border: 1px solid red;
+    margin-top: 20px;  
+    display: flex;  
+}
+.d1{
+    height:40px;
+    width: 80px;
+    border: 1px solid red;
+    color: white;
+    text-align: center;    
+}
+.div3{
+    height: 40px;
+    width: 74%;
+    border: 1px solid red;
+    margin-top: 5px;
+    display: flex;
+}
+.div4{
+    height: 120px;
+    width: 58px;
+    border: 1px solid red;
+    float: right;
+    margin-top: -180px;
+    margin-right: 3px;
+    color: white;
+    padding-top: 60px;
+}
